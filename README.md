@@ -1,5 +1,7 @@
 # Fly AI · 从零实现的图像生成 AI（条件变分自编码器 CVAE）
 
+注意：此仓库借助了DSH开发
+
 一个 **不使用任何 AI 封装库**（torch / tensorflow / keras 等）的图像生成系统，
 **纯 Python + NumPy** 手工实现深度学习的前向、反向传播、训练与生成。
 
