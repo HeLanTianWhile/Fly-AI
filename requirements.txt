@@ -1,0 +1,2 @@
+numpy>=1.24
+# matplotlib is optional (only used for visualization in examples/tests)
